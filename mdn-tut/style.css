@@ -1,0 +1,6 @@
+/* CSS for MDN Canvas Tutorial */
+
+canvas {
+	margin: 1em auto 0;
+	border: 1px solid #333;
+}
